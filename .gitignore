@@ -50,3 +50,6 @@ checkpoints/
 
 # Keep source data but ignore generated vectors
 !vectors/complexity_vectors.pt
+
+# Large generated data files
+data/2d_grid_results.csv
