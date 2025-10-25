@@ -53,3 +53,4 @@ checkpoints/
 
 # Large generated data files
 data/2d_grid_results.csv
+data/qwen_2d_grid_results.csv
